@@ -1,2 +1,2 @@
-RewriteCond %{HTTP_HOST} ^https://denis-roystan.github.io/codiest/
+RewriteCond %{HTTP_HOST} ^denis-roystan.github.io/codiest/
 RewriteRule ^(.*) https://denisroystan.bitbucket.io/ [P]
